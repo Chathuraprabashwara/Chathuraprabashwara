@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chathuraprabashwara
 - 👀 I’m interested in Mobile & Web Development
-- 🌱 I’m currently working as a Software Engineer at Pearson Lanka
+- 🌱 I’m currently working as a Senior Software Engineer at Pearson Lanka
 - 💞️ I’m looking to collaborate on innovative projects and solutions in the software development field
 - 📫 You can reach me via email: chathuraprabashwara@gmail.com
 
